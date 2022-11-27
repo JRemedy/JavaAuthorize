@@ -67,8 +67,6 @@ public class RegistrationForm {
         } while (!success);
     }
 
-
-
     public static void main(String[] args) {
         RegistrationAccount();
         CaptchaProtect();
